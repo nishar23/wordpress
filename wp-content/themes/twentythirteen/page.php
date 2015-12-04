@@ -12,6 +12,7 @@
  */
 
 get_header(); ?>
+<?php echo "welcome" ?>
 
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
