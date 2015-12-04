@@ -1,0 +1,190 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WP Engine Automated Migration"
+msgstr ""
+
+#. Screenshot description.
+msgid "Adding information to the WP Engine Migration Tool in the WP-Admin."
+msgstr ""
+
+#. Screenshot description.
+msgid "WP Engine User Portal Migration Page, https://my.wpengine.com"
+msgstr ""
+
+#. Screenshot description.
+msgid "BlogVault dashboard showing live updates."
+msgstr ""
+
+#. Found in description header.
+msgid "Developers"
+msgstr ""
+
+#. Found in description header.
+msgid "Marketers"
+msgstr ""
+
+#. Found in description header.
+msgid "Site Owners"
+msgstr ""
+
+#. Found in description header.
+msgid "Legal Requirements"
+msgstr ""
+
+#. Found in description header.
+msgid "* Please Note *"
+msgstr ""
+
+#. Found in description list item.
+msgid "This tool will provide you an quick way to migrate sites, allowing you to work on your other projects while the plugin does all the heavy lifting."
+msgstr ""
+
+#. Found in description list item.
+msgid "No need to worry about searching/replacing values in the database, the plugin does it for you."
+msgstr ""
+
+#. Found in description list item.
+msgid "You can migrate multiple sites easily."
+msgstr ""
+
+#. Found in description list item.
+msgid "Worried about SEO? The plugin will keep all your links the same, making sure you do not lose any SEO."
+msgstr ""
+
+#. Found in description list item.
+msgid "Minimal technical knowledge needed to migrate your site to WP Engine."
+msgstr ""
+
+#. Found in description list item.
+msgid "Focus on your business instead of migrating your site."
+msgstr ""
+
+#. Found in description list item.
+msgid "No need to hire a third party migration team."
+msgstr ""
+
+#. Found in description list item.
+msgid "By using this plugin, you are agreeing to our <a href=\"http://wpengine.com/terms-of-service/\">Terms of Service</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WP Engine Automated Migrations allows you to easily migrate your WordPress site to the WP Engine platform. All you need to do is provide the plugin your WP Engine SFTP credentials and let the tool do all the heavy lifting."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For full instructions and solutions to common errors, please visit our <a href=\"http://wpengine.com/support/wp-engine-automatic-migration/\">WP Engine Automated Migrations</a> support garage article."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin will only migrate your site to <a href=\"http://wpengine.com/\">WP Engine</a>. This will not migrate you to any other host."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>wp-migrate-site</code> to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "If you have WordPress 2.7 or above you can simply go to 'Plugins' &gt; 'Add New' in the WordPress admin and search for \"WP Engine Migration Tool\" and install/activate it from there."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adding DB Signature and Server Signature to uniquely identify a site"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adding the stats api to the WordPress Backup plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sending tablename/rcount as part of the callback"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated UI and added helpful content to provide a better migration experience."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add support for repair table so that the backup plugin itself can be used to repair tables without needing PHPMyAdmin access"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Making the plugin to be available network wide."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adding support for 401 Auth checks on the source or destination"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improving the Base64 Decode functionality so that it is extensible for any parameter in the future and backups can be completed for any site"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Separating out callbacks gettablecreate and getrowscount to make the backups more modular"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The plugin will now automatically ping the server once a day. This will ensure that we know if we are not doing the backup of a site where the plugin is activated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use SHA1 for authentication instead of MD5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First release of WP Engine Plugin"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "1) What information do I need to provide to the plugin?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You will have to provide the plugin your email address, destination url, SFTP host name, SFTP username, and SFTP password."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "2) Does this plugin work with Multisite?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes! This has been fully developed to work with Multisite. If moving a Multisite, make sure to Network Activate the plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "3) Can I migrate a single WordPress install into a Multisite using this plugin?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "No. This plugin is designed to migrate sites as is. This plugin will not support single WordPress sites being migrated into a Multisite or a Multisite sub-site being migrated to a single WordPress site."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "4) Are their any known incompatibilities?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Currently, you can not migrate a site from WordPress.com or any proprietary hosting solution. (Squarespace.com, Wix.com, and similar hosting providers)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "5) Other than running the plugin, anything else I need to do?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Once the migration completes, you will need to update your DNS to point to our servers. Keep in mind that you may also need to add any custom redirects to your WP Engine User Portal and migrate your SSL."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "6) How do I sign up for a WP Engine Account?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "That's easy! <a href=\"http://wpengine.com/plans/\">Signup here</a>."
+msgstr ""
